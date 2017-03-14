@@ -1,3 +1,6 @@
 [submodule "public/libs"]
 	path = public/libs
 	url = git@github.com:HendrikOB/libs.git
+[submodule "public/public/libs"]
+	path = public/public/libs
+	url = git@github.com:HendrikOB/libs.git
